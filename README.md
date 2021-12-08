@@ -1,1 +1,6 @@
-﻿# devops-netology 1
+﻿# devops-netology
+
+
+Файлы 
+#       .gitignore
+#       terraform/ попадает в неотслеживаемые, т.е будут проигнорирован.
